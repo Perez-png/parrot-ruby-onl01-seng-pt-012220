@@ -1,5 +1,8 @@
 def # Parrot
-#puts
+  #puts "Squawk!"
+end
+
+
  "Squawk!"
  
 ## Objectives
